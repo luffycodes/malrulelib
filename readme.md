@@ -1,10 +1,7 @@
 # MalruleLib
 
-MalruleLib is currently under review and will be released publicly after the review cycle.
+MalruleLib is accepted at ACL MAIN 2026.
 
-## Early Access
+## Access
 
-If you would like early access, please email:
-
-**Xinghe Chen**  
-📧 xc42@rice.edu
+Source code is hosted here: https://github.com/sonkar-lab/malrulelib
